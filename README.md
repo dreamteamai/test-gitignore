@@ -1,7 +1,1 @@
-"# test-ignore" 
-"# test-ignore" 
-"# test-gitignore" 
-"# test-gitignore" 
-"# test-gitignore" 
-"# test-gitignore" 
 "# test-gitignore" 
